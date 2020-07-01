@@ -1,6 +1,6 @@
-# [Game "Rock Paper Scissors"](https://user-crud-yuskiv.netlify.app/)
+# [Game "Rock Paper Scissors"](https://rps-game-yuskiv.netlify.app/)
 
-## Let’s implement the famous kid game! 
+## Letâ€™s implement the famous kid game! 
 Everybody knows the rules:
 -	Scissors beats a paper,
 -	Paper beats rock,
